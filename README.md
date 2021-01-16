@@ -8,6 +8,6 @@ Customer churn is one of the most important metrics for a growing business to ev
 
 ## Get started
 
-The [starting kit notebook](#ADD A GITHUB LINK HERE)
+The [starting kit notebook](https://github.com/DaliJebali/Data-Camp-2020---Challenge-propostion/blob/main/Starting_kit_Churn.ipynb)
 provides more details about the motivation of  this challenge, the description of the dataset used, an exploratory analysis on the data used and various techniques for empowering your model.
 
